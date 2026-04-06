@@ -3,6 +3,8 @@
 A modern, interactive finance dashboard built with React, Zustand, and Recharts. Designed for clarity, usability, and visual polish.
 
 ---
+## Live Demo
+https://fintech-dashboard-gnj73vgz5-shreyasts716-5061s-projects.vercel.app
 
 ## 🚀 Getting Started
 
